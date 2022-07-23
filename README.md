@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Được học hỏi và làm lại từ HoleText (https://www.youtube.com/c/HoleTex)
+
+### Công nghệ sử dụng
+
+-   ReactJs + Material UI + HighCharts + Lodash + moment + Axios
